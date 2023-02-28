@@ -1,0 +1,1 @@
+"multi of numbers = 10""sum of numbers = 7""sum of numbers = 7""multi of numbers = 10"
